@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.10.10/clduo.ipa</string>
+                    <string>http://10.1.1.1/sd/clduo.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
